@@ -11,6 +11,13 @@ export default
      type: "string",
    },
    {
+    title: "Beskrivelse",
+    description: "Beskrivelse",
+    name: "description",
+    type: "string", 
+    initialValue: false   
+   },
+   {
      title: "Vegatar?",
      description: "Er retten vegetariansk",
      name: "vegetarian",
